@@ -17,26 +17,32 @@
 
 - Open the command prompt.
 
-`git clone https://github.com/Wermat159/grades_extract_and_calculate.git`
-`cd grades_extract_and_calculate`
-`python main.py`
+```python
+git clone https://github.com/Wermat159/grades_extract_and_calculate.git
+cd grades_extract_and_calculate
+python main.py
+```
 
 
 #### For Debian-based GNU/Linux distributions
 
 - Open up your terminal
 
-`git clone https://github.com/Wermat159/grades_extract_and_calculate.git`
-`cd grades_extract_and_calculate`
-`python main.py`
+```python
+git clone https://github.com/Wermat159/grades_extract_and_calculate.git
+cd grades_extract_and_calculate
+python main.py
+```
 
 #### For MacOS
 
 - Open up your terminal
 
-`git clone https://github.com/Wermat159/grades_extract_and_calculate.git`
-`cd grades_extract_and_calculate`
-`python main.py`
+```python
+git clone https://github.com/Wermat159/grades_extract_and_calculate.git
+cd grades_extract_and_calculate
+python main.py
+```
 
 ## TODO
 - [ ] Take file location as input.
