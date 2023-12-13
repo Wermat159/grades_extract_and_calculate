@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 
-#input_file_path = 'grades.txt'
-#output_file_path = 'grades_output.txt'
+input_file_path = 'grades.txt'
+output_file_path = 'grades_output.txt'
 def show_error_popup(message):
     root = tk.Tk()
     root.withdraw()  # Hide the main window
