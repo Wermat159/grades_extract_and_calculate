@@ -17,7 +17,7 @@
 
 - Open the command prompt.
 
-```python
+```cmd
 git clone https://github.com/Wermat159/grades_extract_and_calculate.git
 cd grades_extract_and_calculate
 python main.py
@@ -28,7 +28,7 @@ python main.py
 
 - Open up your terminal
 
-```python
+```bash
 git clone https://github.com/Wermat159/grades_extract_and_calculate.git
 cd grades_extract_and_calculate
 python main.py
@@ -38,7 +38,7 @@ python main.py
 
 - Open up your terminal
 
-```python
+```bash
 git clone https://github.com/Wermat159/grades_extract_and_calculate.git
 cd grades_extract_and_calculate
 python main.py
