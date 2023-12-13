@@ -13,6 +13,9 @@
 
 ## Usage:
 
+> [!NOTE]  
+> Make sure you are in the correct directory.
+
 ### Windows
 
 - Open the command prompt.
